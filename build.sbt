@@ -1,4 +1,6 @@
 
+enablePlugins(JavaAppPackaging)
+
 scalaVersion := "2.11.7"
 
 resolvers ++= Seq(
