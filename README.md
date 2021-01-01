@@ -7,3 +7,5 @@ The default filename is `/tmp/output.gif`. This can be overriden by passing a pa
 
 `sbt run outputfile.gif`
 
+NOTE: On OSX, screen recording permission needs to be given to the console app
+e.g., iTerm2, under privacy settings in system preferences.
